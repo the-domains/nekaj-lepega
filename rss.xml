@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nekaj lepega]]></title>
         <description><![CDATA[Nekaj lepega]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nekaj-lepega/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 09:53:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 09:54:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nekaj-lepega/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17948b97-73d0-4ec4-a28d-e7445da959cb.jpg">]]></description>
+            <link>https://thegrid.ai/nekaj-lepega/911641e6-ce28-427d-a647-af07d84a4f1a/index.html</link>
+            <guid isPermaLink="false">911641e6-ce28-427d-a647-af07d84a4f1a</guid>
+            <pubDate>Tue, 09 Feb 2016 09:54:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ce1800f-c107-4acf-ac89-ce0445db3224.jpg">]]></description>
-            <link>undefined645f76cc-a591-4923-866d-b7c02ee2bb2f/index.html</link>
+            <link>https://thegrid.ai/nekaj-lepega/645f76cc-a591-4923-866d-b7c02ee2bb2f/index.html</link>
             <guid isPermaLink="false">645f76cc-a591-4923-866d-b7c02ee2bb2f</guid>
             <pubDate>Tue, 09 Feb 2016 09:53:44 GMT</pubDate>
         </item>
